@@ -2,7 +2,7 @@ import time
 
 def main():
     iArray = [2,6,9,5,14,3,78,8,75,60]
-    test = "start_12685i?oui?_o22dioajfiafiewiriujfdiosapj_end"
+    test = "start_p112685i?oui?_p2o22dioajfiafiewiriujfdiosapj_end"
     print(iArray)
     for k in range(10):
         min = iArray[k]
